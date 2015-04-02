@@ -1,4 +1,4 @@
-# AGETOFU
+# Adventure Game Engine
 
 アドベンチャーゲームスクリプトエンジン、用の構文解析器(現状)。
 
