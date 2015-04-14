@@ -1,8 +1,5 @@
-# Adventure Game Engine
+# Adventure Game Script Engine
 
-lexer.js … 構文解析器。
+lexer.js … 構文解析
 
-jsで記述しているのでjsでスクリプトエンジン作るためのもの。  
-アドベンチャーゲームに限らず、似たものなら何にでも使える気がする。
-
-ライセンスは一応MITライセンスを適用。
+MIT LICENSE
